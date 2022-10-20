@@ -35,7 +35,7 @@ img{
     display: flex;
     list-style: none;
     justify-content: space-evenly;
-    padding: 2px;
+    padding: 10px;
 }
 
 li:hover{
